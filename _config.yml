@@ -1,22 +1,22 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
+title: GreenYouth Initiative
+url: https://gyinitiative.github.io/
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a not-for-profit organisation.
+description: Official website for GreenYouth Initiative
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Cause Template
+  name: SDG Hub TOBB ETU
   links:
-    - https://github.com/CloudCannon/cause-jekyll-template
+    - https://linktr.ee/sdghubtobbetu
 
 # -----
 # Build
